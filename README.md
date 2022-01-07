@@ -1,4 +1,3 @@
-![code quiz 2](https://user-images.githubusercontent.com/41078587/148486167-4f626cca-5e3e-49f8-a0c7-762f4ec73fe1.png)
 # Code-Quiz
 * When the user clicks the "start quiz" button, a timer begins and the first question appears. After the first question, the user is presented with another question.
 * After each question is answered an alert allows the user to know if they answered correctly. 
