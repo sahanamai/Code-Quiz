@@ -9,9 +9,13 @@
    trim.
    local storage.
 * online links refered: 
-   https://www.w3schools.com/
+   https://www.w3schools.com/ 
+   
    udemy course(udemy.com).
-   https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  
+ *Links: https://sahanamai.github.io/Code-Quiz/
 
    
 
