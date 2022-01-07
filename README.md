@@ -16,7 +16,12 @@
   https://developer.mozilla.org/en-US/docs/Web/JavaScript
   
  *Links: https://sahanamai.github.io/Code-Quiz/
+ 
+ *Screenshots:
+ 
 
    
 
    
+![code quiz1](https://user-images.githubusercontent.com/41078587/148485897-2592b364-21cd-4a59-b784-70e0f1b6eba8.png)
+
